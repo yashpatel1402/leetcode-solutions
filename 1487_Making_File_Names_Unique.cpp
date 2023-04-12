@@ -3,7 +3,7 @@ using namespace std;
 
 /**
  * @link https://leetcode.com/problems/making-file-names-unique/
- * @time-taken:
+ * @time_taken:
  */
 class Solution {
  public:

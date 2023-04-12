@@ -3,7 +3,7 @@ using namespace std;
 
 /**
  * @link https://leetcode.com/problems/distribute-candies/description/
- * @time-taken: 00:02:31
+ * @time_taken: 00:02:31
  */
 class Solution {
  public:

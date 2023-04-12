@@ -3,7 +3,7 @@ using namespace std;
 
 /**
  * @link https://leetcode.com/problems/removing-stars-from-a-string/description/
- * @time-taken:
+ * @time_taken:
  */
 class Solution {
  public:
